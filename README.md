@@ -9,7 +9,7 @@ A small local RAG-style application that lets users upload a PDF and ask grounde
 
 Upload a PDF, ask questions and receive AI-generated answers with page references.
 
-![Application Demo](assets/app-demo.png)
+![Application Demo](demo.png)
 
 ## ✨ Features
 
