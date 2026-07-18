@@ -7,7 +7,7 @@ A small local RAG-style application that lets users upload a PDF and ask grounde
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> Upload a PDF, ask questions and receive AI-generated answers with page references.
+Upload a PDF, ask questions and receive AI-generated answers with page references.
 
 ![Application Demo](assets/app-demo.png)
 
